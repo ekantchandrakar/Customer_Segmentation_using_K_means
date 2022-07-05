@@ -6,3 +6,6 @@
 - To achieve customer segmentation using machine learning algorithm (KMeans Clustering) in Python and to know how this project can be used in marketing strategy in real world.
 - To know who are our target customers with whom you can start marketing strategy.
 
+### Github Repository
+- [Github Repository](https://github.com/ekantchandrakar/Customer_Segmentation_using_K_means "customer Segmentation")
+
